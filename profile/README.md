@@ -11,6 +11,9 @@ Welcome to our project! We're just getting started, so stay tuned for more updat
 | 📋 **Domain Registrar**   | [Beget](https://beget.com/) |
 | 🏠 **Website**            | [navaibe.ru](http://navaibe.ru/) |
 | 💳 **Hosting Paid Until** | `28.07.2025`               |
+| 📦 **countries archive** |  [yandex disk]([http://navaibe.ru](https://disk.yandex.ru/d/APwrLfpLZCXZbw)|
+
+
 
 ---
 
